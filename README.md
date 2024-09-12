@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Kandanurarafah
-- 👀 I’m interested in invest
-- 🌱 I’m currently learning in jakarta
-- 💞️ I’m looking to collaborate on empty
-- 📫 How to reach me @KANDASALAM123
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Kandanurarafah/Kandanurarafah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+تشرفت بلقائك، اسمي كاندا، وهو ليس عربي، كل ما في الأمر أنني أشعر بالمللところで、バナナとお金よりも面白いものは何か知っていますか？hmm... that's the story I told on the first page entitled how to use money and buy hundreds of bananas for 100 dollars...tapi begitulah seorang yang akan mencaci maki dalam kata lain itu hanyalah cerita murahan hey..... apakah kamu tau uang 100dolar bisa membeli berapa pisang mengapa sekor monyet lebih memilih satu pisang daripada 100 dolar 是的，因为他们记录了洛基·古隆正在谈论的同样愚蠢的人……愚蠢哈哈，你知道愚蠢吗，这是愚蠢、有趣的另一个词 Vâng, mọi chuyện cứ diễn ra như vậy cho đến khi chúng ta không biết mình sẽ đi đâu hahaha😆😆😆😆

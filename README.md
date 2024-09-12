@@ -1,1 +1,57 @@
-تشرفت بلقائك، اسمي كاندا، وهو ليس عربي، كل ما في الأمر أنني أشعر بالمللところで、バナナとお金よりも面白いものは何か知っていますか？hmm... that's the story I told on the first page entitled how to use money and buy hundreds of bananas for 100 dollars...tapi begitulah seorang yang akan mencaci maki dalam kata lain itu hanyalah cerita murahan hey..... apakah kamu tau uang 100dolar bisa membeli berapa pisang mengapa sekor monyet lebih memilih satu pisang daripada 100 dolar 是的，因为他们记录了洛基·古隆正在谈论的同样愚蠢的人……愚蠢哈哈，你知道愚蠢吗，这是愚蠢、有趣的另一个词 Vâng, mọi chuyện cứ diễn ra như vậy cho đến khi chúng ta không biết mình sẽ đi đâu hahaha😆😆😆😆
+Welcome to my python Profile
+# Profile
+  INTRODUCE
+    Name    : kanda nurarafah 
+    Age     : (∞)
+    status  : Heart break
+    people  : anonymous
+# program1
+    
+  import random
+  import time
+  import sys
+  def loading():
+      for i in range(3):
+          sys.stdout.write("\rLoading" + smart contract
+                           code 99+66"." * i)
+          sys.stdout.flush()
+          time.sleep(0.5)
+      print("\n")
+      print( do you know about 100.dolar ")
+      time.sleep(1)
+
+      while  > 0 and
+          try:
+               = int(input(just introducing myself very briefly and only those who know will understand "))
+
+              if  < :
+          UNLUCKY -=l0v3 24 
+
+      if guess != secret_number:
+          print(f"\nChance's up! The number I chose is {secret_number}.")
+
+  # Program2
+  if __name__ == "__history__":
+      loading(...) 
+#This profile tells the story of a child who was born into a simple family, the mother is a teacher and the father is a civil servant, where the child here suffers from a slight error, namely thinking that he can prove the truth of what he has said. which means that he is too excessive in dealing with something and is quick to jump to conclusions. This child is easily angered because of the mental stress he went through as a child. And he has 3 younger siblings, 2 boys and 1 girl. This child also experiences failed romance in his life. that's life and this is just a short story about him
+
+import time
+import sys
+# SKILL
+def display_animation():
+    Coding = ["[■□□□□□□□□□]",
+              Englis ="[■■□□□□□□□□]", 
+   Visual editing = "[■■■■■■□□□□]", 
+Game ="[■■■■■■■□□□]", Invest = "[■■■■■■■■□□]", 
+Fight = "[■■■■■■■■■□]"
+, Akhlak insyallah = "[■■■■■■■■■■]"]
+
+    for i in range(len(animation)):
+        sys.stdout
+      python moving_circle.py
+import turtle
+
+circle = turtle.Turtle()
+circle.shape("circle")
+circle.color("cyan")
+circle.penup()  

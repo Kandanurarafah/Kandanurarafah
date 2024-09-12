@@ -2,8 +2,11 @@ Welcome to my python Profile
 # Profile
   INTRODUCE
     Name    : kanda nurarafah 
+    
     Age     : (∞)
+
     status  : Heart break
+    
     people  : anonymous
 # program1
     
